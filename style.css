@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    color: red;
+    font-weight: 600;
+}
+.block1  img{
+    width: 300px;
+}
+.block1,.block2 p {
+    font-size: 20px;
+}
+.block1{
+    background-color:dimgrey;
+    border: 5px solid black;
+    margin-bottom: 15px;
+}
+.block1 h2{
+    text-align: center;
+}
+.block1 a{
+    color: black;
+}
+.block2 a{
+    color: blue;
+}
+.block2{
+    background-color: blueviolet;
+    border: 5px solid black;
+}
+.block2 img {
+    width: 300px;
+}
+.block2 h2{
+    text-align: center;
+}
+.block3 img{
+    width: 300px;
+}
+.block3 h2{
+    text-align: center;
+}
+.block3{
+    border: 3px solid cadetblue;
+    margin-top: 15px;
+    background-color:lightblue;
+}
+.block0 img{
+    width: 30px;
+}
+.block0{
+    text-align: center;
+    margin-top: 10px;
+    border: 3px solid black;
+}

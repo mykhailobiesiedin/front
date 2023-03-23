@@ -1,0 +1,63 @@
+                    /* Первый пункт */
+/* .text{
+    width: 400px;
+    text-align: justify;
+}
+body{
+    background-attachment: fixed;
+    background-image: url(https://www.cesarsway.com/wp-content/uploads/2019/10/AdobeStock_190562703-768x535.jpeg);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+} */
+/* ***************************************************** */
+
+
+             /* ******* Второй пункт ******* */
+/* .link1{
+    color: blue;
+    text-decoration: none;
+}
+.link1:hover{
+    text-decoration: underline;
+    color: green;
+}
+.link2{
+    color: red;
+}
+.link2:hover{
+    text-decoration:line-through;
+    color: blue;
+}
+.link3{
+    color: black;
+    text-decoration: none;
+}
+.link3:hover{
+    color: red;
+    text-decoration: overline;
+}
+p{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}   */
+ /* *********************************************** */
+                    /* Третий пункт */
+/* table{
+    border: 1px solid black;
+    border-collapse: separate;
+    width: 300px;
+    box-shadow: 0px 0px 10px 2px black;
+}
+th{
+    border: 2px solid black;
+    border-collapse: separate;
+}
+td{
+    border: 2px solid black;
+    border-collapse: separate;
+}
+
+img{
+    width: 30px;
+} */
